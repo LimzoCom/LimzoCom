@@ -2,7 +2,7 @@
 
 **Free anti-spam and moderation bot for Telegram groups, with member stats, levels and weekly reports in the same bot.**
 
-[Limzo](https://limzo.com) keeps Telegram groups clean and active. It stops spam, scams and fake admins before they reach your members, then turns group activity into public stats pages, levels and weekly highlights. Every protection layer is included on the free plan; Pro adds automatic actions like risky-link auto-delete, auto mute or ban for admin impersonators, and raid lockdown.
+[Limzo](https://limzo.com) keeps Telegram groups clean and active. It stops spam, scams and fake admins before they reach your members, then turns group activity into public stats pages, levels and weekly highlights. Every protection layer is included on the free plan; Pro adds automatic actions like risky-link auto-delete and auto mute or ban for admin impersonators, plus custom raid-lockdown settings.
 
 ## Protection
 
